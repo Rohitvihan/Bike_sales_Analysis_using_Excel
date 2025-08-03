@@ -16,11 +16,7 @@ The **Bike Sales Dashboard** is designed using Microsoft Excel and showcases the
   * Marital Status
   * Region
   * Education Level
-
-## 📁 Files Included
-
-* `bike_buyers.xlsx` – The Excel file containing raw data, pivot tables, charts, and the interactive dashboard.
-
+    
 ## 📌 Tools & Techniques Used
 
 * Microsoft Excel (Pivot Tables, Pivot Charts)
