@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Dashboard Project
+# 🚲 Bike Sales Analysis!
 
 This project presents an **interactive Excel dashboard** for analyzing bike purchase trends based on demographic and socioeconomic variables such as gender, income, age, commute distance, and more.
 
